@@ -163,12 +163,12 @@
     "show_toolbar": "Prikaži orodno vrstico",
     "show_toolbar_aria_label_on": "Vklopite orodno vrstico zaslona",
     "show_toolbar_aria_label_off": "Izklop orodne vrstice zaslona",
-    "show_configbar": "Show Configbar",
-    "show_configbar_aria_label_on": "Toggle display configbar on",
-    "show_configbar_aria_label_off": "Toggle display configbar off",
-    "show_animation": "Show Animation",
-    "show_animation_aria_label_on": "Toggle animation on",
-    "show_animation_aria_label_off": "Toggle animation off",
+    "show_configbar": "Pokaži konfiguracijsko vrstico",
+    "show_configbar_aria_label_on": "Vklopite konfiguracijsko vrstico zaslona",
+    "show_configbar_aria_label_off": "Izklopite konfiguracijsko vrstico zaslona",
+    "show_animation": "Prikaži animacijo",
+    "show_animation_aria_label_on": "Vklopi animacijo",
+    "show_animation_aria_label_off": "Izklopi animacijo",
     "code_only_note": "Opomba: Nastavitev 'shortcuts' in možnosti 'stats' so na voljo izključno z urejevalnikom kod."
   },
   "units": {
